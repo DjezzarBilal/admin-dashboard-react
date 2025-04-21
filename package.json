@@ -1,0 +1,36 @@
+{
+  "name": "dashboard-admin",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fullcalendar/core": "^6.1.17",
+    "@fullcalendar/daygrid": "^6.1.17",
+    "@fullcalendar/list": "^6.1.17",
+    "@fullcalendar/timegrid": "^6.1.17",
+    "@mui/icons-material": "^7.0.1",
+    "@mui/material": "^7.0.1",
+    "@mui/x-data-grid": "^7.28.3",
+    "@nivo/bar": "^0.88.0",
+    "@nivo/core": "^0.88.0",
+    "@nivo/geo": "^0.88.0",
+    "@nivo/line": "^0.88.0",
+    "@nivo/pie": "^0.88.0",
+    "formik": "^2.4.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-pro-sidebar": "^0.7.1",
+    "react-router-dom": "^6.30.0",
+    "yup": "^1.6.1"
+  }
+}
